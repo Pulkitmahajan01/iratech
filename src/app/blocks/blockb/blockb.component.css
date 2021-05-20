@@ -1,0 +1,16 @@
+.block-2 {
+    background-color: black;
+    color: white;
+    width: 20%;
+    height: 113px;
+    text-align: center;
+    left: 776px;
+    top: -115px;
+    position: relative;
+}
+
+.text-block-b {
+    position: fixed;
+    top: 46px;
+    right: 92px;
+}

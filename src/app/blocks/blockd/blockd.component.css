@@ -1,0 +1,16 @@
+.block-4 {
+    background-color: black;
+    color: white;
+    width: 20%;
+    height: 113px;
+    text-align: center;
+    left: 776px;
+    top: 262px;
+    position: relative;
+}
+
+.text-block-d {
+    position: fixed;
+    right: 92px;
+    bottom: 58px;
+}

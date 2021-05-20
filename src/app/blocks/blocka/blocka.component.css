@@ -1,0 +1,13 @@
+.block-1 {
+    background-color: black;
+    color: white;
+    width: 20%;
+    height: 113px;
+    text-align: center;
+}
+
+.text-block-a {
+    position: fixed;
+    top: 53px;
+    left: 86px;
+}

@@ -1,0 +1,8 @@
+<form>
+    <div *ngFor = "let phone of phonenum; let index = index">
+    <input type="number" [value]="phone" (change)="updatePhoneNumber($event,index)">
+    </div>
+    <button type="button" (click)="add()">Add another phone number</button>    
+</form>
+<button (click)="onSubmitButton()">Submit</button>
+
